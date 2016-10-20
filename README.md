@@ -4,7 +4,7 @@ Simple [Namuwiki](namu.wiki) Extractor extension of [Namu Wiki Extractor](https:
 This module strips the namu mark from a namu wiki document and extracts its plain text only.
 
 # Environment
-- Python 3
+- Python 2, 3
 
 # Usage
 
