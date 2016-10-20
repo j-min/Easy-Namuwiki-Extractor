@@ -7,9 +7,16 @@ This module strips the namu mark from a namu wiki document and extracts its plai
 - Python 3
 
 # Usage
-`python Run_extractor.py -i input_json_file -o outputfile_name`
 
-Tags:
+- Clone this repo : `git clone https://github.com/j-min/Easy-Namuwiki-Extractor`
+
+- Download Namuwiki json dump inside directory of repo : `wget http://dump.unofficialnis.ga/files/json/namuwiki_160829.json`
+
+- You can find latest dumps [here](https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%8D%A4%ED%94%84)
+
+- Run extractor: `python Run_extractor.py -i input_json_file -o outputfile_name`
+
+- Tags:
 
 ```
 --input (-i) : input filename
@@ -18,3 +25,8 @@ Tags:
 --title (-t) : include titles of documents while extracting
 ```
 
+# How Namuwiki Json looks like
+
+![alt tag](https://cloud.githubusercontent.com/assets/18069263/19549777/3ba7f22e-96e1-11e6-9b2a-330cee31566d.png)
+
+- from [web json viewer](http://jsonviewer.stack.hu/)
