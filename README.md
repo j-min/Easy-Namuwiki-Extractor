@@ -5,6 +5,7 @@ This module strips the namu mark from a namu wiki document and extracts its plai
 
 # Environment
 - Python 2, 3
+- [tqdm](https://pypi.python.org/pypi/tqdm)
 
 # Usage
 
@@ -30,3 +31,8 @@ This module strips the namu mark from a namu wiki document and extracts its plai
 ![alt tag](https://cloud.githubusercontent.com/assets/18069263/19549777/3ba7f22e-96e1-11e6-9b2a-330cee31566d.png)
 
 - from [web json viewer](http://jsonviewer.stack.hu/)
+
+
+# Sample Output
+
+![alt tag](https://cloud.githubusercontent.com/assets/18069263/20699834/d9974d38-b64c-11e6-9fd3-06dac16efc38.png)
