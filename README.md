@@ -10,7 +10,7 @@ This module strips the namu mark from a namu wiki document and extracts its plai
 
 - Clone this repo : `git clone https://github.com/j-min/Easy-Namuwiki-Extractor`
 
-- Download Namuwiki json dump inside directory of repo : `wget http://dump.unofficialnis.ga/files/json/namuwiki_160829.json`
+- Download Namuwiki json dump inside directory of repo : `wget http://file2.unofficialnis.ga/namuwiki_161031.json`
 
 - You can find latest dumps [here](https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%8D%A4%ED%94%84)
 
